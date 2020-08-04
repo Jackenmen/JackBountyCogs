@@ -1,0 +1,15 @@
+
+{
+    "name": "EsyLink",
+    "short": "Shorten links with EsyL.ink.",
+    "description": "Shorten links with EsyL.ink.",
+    "author": [
+        "jack1142 (Jackenmen#6607)"
+    ],
+    "required_cogs": {},
+    "requirements": [],
+    "min_bot_version": "3.3.10",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
