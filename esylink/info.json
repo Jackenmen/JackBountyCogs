@@ -6,6 +6,7 @@
     "author": [
         "jack1142 (Jackenmen#6607)"
     ],
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
     "required_cogs": {},
     "requirements": [],
     "min_bot_version": "3.3.10",
